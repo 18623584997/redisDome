@@ -1,0 +1,4 @@
+controller\ActivityController.class
+entity\UserInfo.class
+entity\Activity.class
+service\ChallengService.class
